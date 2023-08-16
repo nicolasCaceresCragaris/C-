@@ -1,0 +1,8 @@
+C:\Users\cacer\OneDrive\Escritorio\CursoUdemy1Reto2\CursoUdemy1Reto2\bin\Debug\CursoUdemy1Reto2.exe.config
+C:\Users\cacer\OneDrive\Escritorio\CursoUdemy1Reto2\CursoUdemy1Reto2\bin\Debug\CursoUdemy1Reto2.exe
+C:\Users\cacer\OneDrive\Escritorio\CursoUdemy1Reto2\CursoUdemy1Reto2\bin\Debug\CursoUdemy1Reto2.pdb
+C:\Users\cacer\OneDrive\Escritorio\CursoUdemy1Reto2\CursoUdemy1Reto2\obj\Debug\CursoUdemy1Reto2.csproj.AssemblyReference.cache
+C:\Users\cacer\OneDrive\Escritorio\CursoUdemy1Reto2\CursoUdemy1Reto2\obj\Debug\CursoUdemy1Reto2.csproj.SuggestedBindingRedirects.cache
+C:\Users\cacer\OneDrive\Escritorio\CursoUdemy1Reto2\CursoUdemy1Reto2\obj\Debug\CursoUdemy1Reto2.csproj.CoreCompileInputs.cache
+C:\Users\cacer\OneDrive\Escritorio\CursoUdemy1Reto2\CursoUdemy1Reto2\obj\Debug\CursoUdemy1Reto2.exe
+C:\Users\cacer\OneDrive\Escritorio\CursoUdemy1Reto2\CursoUdemy1Reto2\obj\Debug\CursoUdemy1Reto2.pdb
