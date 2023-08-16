@@ -1,0 +1,8 @@
+C:\Users\cacer\OneDrive\Escritorio\ejercicioBanco\ejercicioBanco\bin\Debug\ejercicioBanco.exe.config
+C:\Users\cacer\OneDrive\Escritorio\ejercicioBanco\ejercicioBanco\bin\Debug\ejercicioBanco.exe
+C:\Users\cacer\OneDrive\Escritorio\ejercicioBanco\ejercicioBanco\bin\Debug\ejercicioBanco.pdb
+C:\Users\cacer\OneDrive\Escritorio\ejercicioBanco\ejercicioBanco\obj\Debug\ejercicioBanco.csproj.AssemblyReference.cache
+C:\Users\cacer\OneDrive\Escritorio\ejercicioBanco\ejercicioBanco\obj\Debug\ejercicioBanco.csproj.SuggestedBindingRedirects.cache
+C:\Users\cacer\OneDrive\Escritorio\ejercicioBanco\ejercicioBanco\obj\Debug\ejercicioBanco.csproj.CoreCompileInputs.cache
+C:\Users\cacer\OneDrive\Escritorio\ejercicioBanco\ejercicioBanco\obj\Debug\ejercicioBanco.exe
+C:\Users\cacer\OneDrive\Escritorio\ejercicioBanco\ejercicioBanco\obj\Debug\ejercicioBanco.pdb
