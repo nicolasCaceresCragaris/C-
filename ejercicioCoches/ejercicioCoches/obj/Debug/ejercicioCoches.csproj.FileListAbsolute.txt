@@ -1,0 +1,8 @@
+C:\Users\cacer\OneDrive\Escritorio\ejercicioCoches\ejercicioCoches\bin\Debug\ejercicioCoches.exe.config
+C:\Users\cacer\OneDrive\Escritorio\ejercicioCoches\ejercicioCoches\bin\Debug\ejercicioCoches.exe
+C:\Users\cacer\OneDrive\Escritorio\ejercicioCoches\ejercicioCoches\bin\Debug\ejercicioCoches.pdb
+C:\Users\cacer\OneDrive\Escritorio\ejercicioCoches\ejercicioCoches\obj\Debug\ejercicioCoches.csproj.AssemblyReference.cache
+C:\Users\cacer\OneDrive\Escritorio\ejercicioCoches\ejercicioCoches\obj\Debug\ejercicioCoches.csproj.SuggestedBindingRedirects.cache
+C:\Users\cacer\OneDrive\Escritorio\ejercicioCoches\ejercicioCoches\obj\Debug\ejercicioCoches.csproj.CoreCompileInputs.cache
+C:\Users\cacer\OneDrive\Escritorio\ejercicioCoches\ejercicioCoches\obj\Debug\ejercicioCoches.exe
+C:\Users\cacer\OneDrive\Escritorio\ejercicioCoches\ejercicioCoches\obj\Debug\ejercicioCoches.pdb
